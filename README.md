@@ -1,2 +1,4 @@
 # Fall2024CalculatorProject
-Calculator Project from Fall 2024 SWE3643
+##Dylan Luong
+
+- Calculator Project from Fall 2024 SWE3643
